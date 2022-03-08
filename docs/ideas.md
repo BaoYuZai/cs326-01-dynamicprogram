@@ -3,7 +3,7 @@ Team name: 01-dynamicprogram
 Application name: 326bnb
 
 Team Overview:
-member: Jianye Nie, Heng Huang
+member: Jianye Nie, Heng Huang, Rui Wang, Junming Li
 Github Username: hideonbase
 
 Innovative Idea:
